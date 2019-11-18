@@ -1,0 +1,14 @@
+---
+title: 第一个Blog
+tags: blog
+grammar_mindmap: true
+renderNumberedHeading: true
+grammar_code: true
+grammar_decorate: true
+grammar_mathjax: true
+---
+
+
+[toc!?direction=lr]
+
+将在这里更新自己看文献的进展和知识整理（随缘），往后见吧！
