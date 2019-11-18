@@ -15,7 +15,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Xiaoyu Ma(马晓宇)
+  title: Xiaoyu Ma
   tagline: Student
   date_format: "%b %-d, %Y"
   style: black
@@ -25,7 +25,7 @@ texture:
   # generate social links in footer
   social_links:
     twitter: /
-    github:  derek1998
+    github: derek1998
     linkedIn: /
     rss: rss
  
