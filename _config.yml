@@ -6,16 +6,16 @@ description: > # this means to ignore newlines until "show_exerpts:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+baseurl: texture
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
 
-permalink: posts:title
+permalink: /posts/:title/
 texture:
-  title: Xiaoyu Ma
+  title: Xiaoyu Ma(马晓宇)
   tagline: Student
   date_format: "%b %-d, %Y"
   style: black
@@ -24,9 +24,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: /
-    github: derek1998
-    linkedIn: /
+    twitter: none
+    github:  derek1998
+    linkedIn: none
     rss: rss
  
 
@@ -36,7 +36,7 @@ texture:
 # - about.md
 
 # Build settings
-theme: jekyll-theme-slate
+# theme: texture
 
 plugins:
   - jekyll-seo-tag
