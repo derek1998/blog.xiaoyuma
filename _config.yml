@@ -13,7 +13,7 @@ baseurl: /texture
 sass:
   sass_dir: _sass
 
-permalink: /posts/:title/
+permalink: posts:title
 texture:
   title: Xiaoyu Ma
   tagline: Student
