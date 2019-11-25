@@ -17,15 +17,30 @@
 </head>
 <style>
   table{
-    border-left:1px solid #000000;border-top:1px solid #000000;
-    width: 100%;
-    word-wrap:break-word; word-break:break-all;
+        margin-top:15px;
+      border-collapse:collapse;
+      border:1px solid #aaa;
+      width:100%;
   }
   table th{
+      vertical-align:center;
+      padding:5px 15px 5px 6px;
+  background-color:#3F3F3F;
+  border:1px solid #3F3F3F;
+  text-align:left;
+  color:#fff;
   text-align:center;
   }
   table th,td{
-    border-right:1px solid #000000;border-bottom:1px solid #000000;
+      vertical-align:text-top;
+      padding:6px 15px 6px 6px;
+      border:1px solid #aaa;
   }
+    table tr:nth-child(odd) {
+  background-color:#F5F5F5;
+}
+table tr:nth-child(even) {
+  background-color:#fff;
+}
 </style>
 {% seo %}
