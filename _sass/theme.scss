@@ -104,7 +104,6 @@ header {
 .container {
 	margin:0 150px;
 	max-width: 720px;
-	margin-bottom: 200px;
 
 	div.highlighter-rouge {
 		right: 150px;
@@ -195,6 +194,7 @@ header {
 
 .posts {
 	list-style-type: none;
+	margin-bottom: 100px;
 	padding: 0;
 	>li {
 		margin-bottom: 30px;
