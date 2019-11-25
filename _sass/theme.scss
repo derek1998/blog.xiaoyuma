@@ -199,7 +199,7 @@ header {
 		margin-bottom: 30px;
 		padding-bottom: 20px;
 		&:not(:last-child) {
-			border-bottom: 20px solid $lightGray;
+			border-bottom: 1px solid $lightGray;
 		}
 	}
 }
