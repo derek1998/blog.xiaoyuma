@@ -37,7 +37,7 @@ texture:
 # theme: texture
 
 plugins:
-  - jekyll-seo-tag
+  - jekyll-seo-tag-toc
 #  - jekyll-feed
 
 remote_theme: thelehhman/texture
